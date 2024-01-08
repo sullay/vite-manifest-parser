@@ -1,0 +1,10 @@
+{
+  "src/app/main.ts": {
+      "file": "assets/main.123abc.js",
+      "css": ["assets/main.456def.css"],
+      "imports": ["src/components/Component.vue"]
+  },
+  "src/components/Component.vue": {
+      "file": "assets/component.789ghi.js"
+  }
+}

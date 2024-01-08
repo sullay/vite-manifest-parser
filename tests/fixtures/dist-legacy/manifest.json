@@ -1,0 +1,16 @@
+{
+  "src/app/main.ts": {
+    "file": "assets/main.123abc.js",
+    "css": ["assets/main.456def.css"],
+    "imports": ["src/components/Component.vue"]
+  },
+  "src/components/Component.vue": {
+    "file": "assets/component.789ghi.js"
+  },
+  "src/app/main-legacy.ts": {
+    "file": "assets/main-legacy.abc123.js"
+  },
+  "vite/legacy-polyfills-legacy": {
+    "file": "assets/legacy-polyfills.ghi789.js"
+  }
+}
