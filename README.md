@@ -28,7 +28,7 @@ const outDir = '/absolute/path/to/dist'; // Your build directory
 const publicPath = '/public/dist/'; // Public path to your assets
 const isDev = process.env.NODE_ENV !== 'production'; // Determine the environment
 
-const = { preload, css, js } await parser({ input, outDir, publicPath, isDev });
+const { preload, css, js } = await parser({ input, outDir, publicPath, isDev });
 
 ```
 
